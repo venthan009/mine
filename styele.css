@@ -1,0 +1,10 @@
+.banner{
+    background-image: url(/h-1.jpg);
+    background-size: cover;
+    padding: 250px;
+    background-repeat: no-repeat;
+    
+}
+.bs{
+    text-decoration-color: rgb(237, 235, 233);
+}
